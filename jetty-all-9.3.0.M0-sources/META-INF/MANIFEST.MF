@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: jesse
+Build-Jdk: 1.7.0_65
+Bundle-ManifestVersion: 2
+Bundle-Name: Jetty :: Aggregate :: All core Jetty
+Bundle-SymbolicName: org.eclipse.jetty.aggregate.all.source;singleton:
+ =true
+Bundle-Vendor: Eclipse.org - Jetty
+Bundle-Version: 9.3.0.M0
+Eclipse-SourceBundle: org.eclipse.jetty.aggregate.all;version="9.3.0.M
+ 0";roots:="."
+

@@ -24,7 +24,8 @@
 	</classpathentry>
 	<classpathentry kind="src" path="httpclient3.1"/>
 	<classpathentry kind="src" path="jsoup"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk6">
+	<classpathentry kind="src" path="netty-all-5.0.0.Alpha1-sources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk8">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
